@@ -123,7 +123,4 @@ ul li span:hover {
         margin: 25px auto 20px;
     }
 
-    .row {
-        flex-direction: column;
-    }
 }
