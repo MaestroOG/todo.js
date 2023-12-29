@@ -122,4 +122,9 @@ ul li span:hover {
     .todo-app {
         margin: 25px auto 20px;
     }
+
+    .row {
+        flex-direction: column;
+        justify-content: center;
+    }
 }
