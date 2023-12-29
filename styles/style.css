@@ -125,6 +125,5 @@ ul li span:hover {
 
     .row {
         flex-direction: column;
-        justify-content: center;
     }
 }
